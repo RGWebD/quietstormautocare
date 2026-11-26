@@ -17,7 +17,7 @@ function status(){const n=etNow(),h=hoursFor(n);let st='closed',t;
  if(h==='unk'){st='unk';t='Call to confirm Friday hours'}
  else if(h&&n.min>=h[0]&&n.min<h[1]){st='open';t='Open now · until '+fmt(h[1])+' ET · by appt.'}
  else if(h&&n.min<h[0]){t='Closed · opens '+fmt(h[0])+' ET'}
- else{t='Closed now';for(let k=1;k<8;k++){const nx=etNow(new Date(Date.now()+k*864e5)),hx=hoursFor(nx);if(hx==='unk')continue;if(hx){t='Closed · opens '+(k===1?'tomorrow':DN[nx.day])+' '+fmt(hx[0])+' ET';break}}}
+ else{t='Closed now';for(let k=1;k<8;k++){const nx=etNow(new Date(Date.now()+k*864e5)),hx=hoursFor(nx);if(hx==='unk')continue;if(hx){t='Closed · opens '+(k===1?'tomorrow':DN[nx.day])+' '+fmt(hx[0])+' ET'+(HOLI[nx.date]?' ('+HOLI[nx.date].n.split(',')[0]+')':'');break}}}
  if(HOLI[n.date])t+=' · '+HOLI[n.date].n;
  $$('[data-status]').forEach(el=>{el.classList.remove('open','closed','unk');el.classList.add(st);const s=$('span',el);if(s)s.textContent=t});
  $$('.hours tr').forEach(tr=>tr.classList.toggle('today',+tr.dataset.d===n.day))}
