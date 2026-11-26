@@ -1,0 +1,53 @@
+# Quiet Storm Auto Care
+
+> Black-owned auto repair shop at 2631 Washington Rd, Augusta, Georgia 30904. Rated 4.9 from 62 Google reviews. Appointment required. Phone (706) 814-5930.
+
+- Address: 2631 Washington Rd, Augusta, GA 30904
+- Phone: (706) 814-5930
+- Google category: Auto repair shop
+- Google Maps: https://www.google.com/maps/place/Quiet+Storm+Auto+Care/@33.507883,-82.0235982,17z/data=!3m1!4b1!4m6!3m5!1s0x88f9ce459afcd905:0xd98d9d6b90d55803!8m2!3d33.507883!4d-82.0210233!16s%2Fg%2F1tkb5z5v
+- Hours (Eastern Time, as listed on Google, Thanksgiving week 2026): Monday to Thursday 9 AM to 6 PM. Friday, Saturday and Sunday closed (Friday's regular hours were hidden behind a holiday listing; call to confirm). Thanksgiving (Thu Nov 26, 2026) 9 AM to 6 PM, hours might differ. Black Friday (Fri Nov 27, 2026) closed.
+- Appointment required.
+- Payments: credit cards, debit cards, NFC mobile payments
+- Listing attributes: Black-owned; wheelchair-accessible entrance and parking; restroom (gender-neutral); onsite services; oil change
+- Original website (older, may be out of date): https://quietstormautocare.yolasite.com/. It lists email quietstormauto@yahoo.com, an older address (1912 Lumpkin Rd) and other phone numbers; use the Google details above.
+
+## Services
+- Confirmed by the Google listing and reviews: mechanical auto repair, diagnosis, oil change, routine maintenance, alternator replacement, repairs after a breakdown.
+- Listed on their original website (call to confirm they are still offered): auto body repair; car wash, wash & wax and full detail; seat and carpet shampoo; seat and carpet dye (spot dye too). "We do them all from compact cars to 18 wheelers, RV's, and boats."
+- Pickup and delivery if requested, only within a 5-mile radius (original website).
+
+## Prices as published on their original website (may be out of date; call to confirm)
+- Car wash, original / teacher-military-senior discount price: Cars $11 / $9; 2-door trucks & small SUVs $15 / $12; 4-door trucks, large SUVs & vans $20 / $17; F-250 & 2500 pickup trucks $25 / $22; 18-wheelers $65 / —; RVs (may vary by size) $80 / $75; Boats (may vary by size) $100 / $90
+- Wash & wax / full detail / discount wash & wax / discount full detail: Cars $50 / $120 / $40 / $100; 2-door pickup trucks $50 / $120 / $40 / $100; Small SUVs & minivans $60 / $150 / $50 / $120; 4-door pickup trucks & large SUVs $60 / $150 / $55 / $120
+- Seat & carpet shampoo (seats leather / seats cloth / carpet only / seats & carpet leather / seats & carpet cloth): Cars $20 / $30 / $30 / $50 / $60; Small SUVs $20 / $30 / $40 / $60 / $70; Large SUVs $30 / $50 / $60 / $90 / $110; Minivans $30 / $50 / $60 / $90 / $110; Large vans $40 / $60 / $70 / $110 / $130; 2-door trucks $20 / $30 / $30 / $50 / $60; 4-door trucks $20 / $30 / $30 / $50 / $60
+- Carpet dye: Cars $140; Minivans $140; SUVs $140; Two-door trucks $120; Four-door trucks $140. Seat dye: Cars $100; Minivans $130; SUVs $130; Two-seater vehicles $80; Two-door trucks $80; Four-door trucks $100.
+- Mechanic work and auto body repair: call for prices.
+
+## Specials (original website; call to confirm)
+- Every day the 15th customer wins a free $50 gas card or $25 cash (customer's choice).
+- Teacher, military and senior-citizen discounts.
+- Ladies' Day discount every day (car wash, cars only); Men's Day discount Mondays and Wednesdays.
+
+## Pages
+- Home: https://rgwebd.github.io/quietstormautocare/
+- Services: https://rgwebd.github.io/quietstormautocare/services.html
+- Prices & Specials: https://rgwebd.github.io/quietstormautocare/prices.html
+- About & gallery: https://rgwebd.github.io/quietstormautocare/about.html
+- Reviews: https://rgwebd.github.io/quietstormautocare/reviews.html
+- Contact, hours, map and FAQ: https://rgwebd.github.io/quietstormautocare/contact.html
+
+## Google reviews (verbatim, five-star selection)
+- Shewania Moore (a month ago, 5 stars): "I had a wonderful experience with this auto shop! Kenny took the time to carefully explain everything my vehicle needed,showed me the areas that needed attention, and made sure I understood the importance of each service. I truly appreciated his honesty, patience, and professionalism throughout the process. As a woman, it is especially important to feel comfortable, respected, and secure when taking your vehicle in for services. He provided that extra level of reassurance by being transparent, informative,and never making me uncomfortable asking questions. I felt confident that my vehicle was in good hands. It's refreshing to find an auto shop that values customer service, honesty, and making sure customers feel informed rather than overwhelmed. I highly recommend this shop to anyone looking for quality service, clear communication, and a mechanic along with his team you can trust. I will definitely be returning for future automotive needs! Thank you! Kenny, Kasey, and Michelle! Simply Amazing!"
+- Anthony Zimlich (a year ago (edited), 5 stars): "Honesty, integrity and professionalism are just a few words to describe Quiet Storm. I can not say enough great things about this shop. My vehicle was towed there after it catastrophically broke down and they diagnosed and fixed the problems with little to no visible malfunctions. They showed me what the problem was, explained it thoroughly and was spot on with the time required to fix it. The shop is impeccably clean, friendly and restores my faith in honest workmanship. Being from out of town, they communicated incredibly and charged me a very fair price. The receptionist/office manager (Michelle) and owner himself (Kenny) treated me like family and they pay attention to the small details. I'll make the two hour drive in a heartbeat just to use this shop again. 10 stars!"
+- Michael Zibman (7 months ago, 5 stars): "I’ve used Quiet Storm for routine maintenance and more serious issues and they have always been great to work with, quick to get the service done and extremely fair on the price. Highly recommend them!"
+- Gregory Roberson (2 months ago, 5 stars): "Professional and Great prices. Michelle and Kenny are the best. Highly recommend."
+- DoubleTrouble76 (2 years ago, 5 stars): "Had my daughters alternator changed out on her Toyota Corolla and they did it very fast and also for a very reasonable price. This place will have our business from here on out for sure. Very friendly people also."
+- Consuella Carter (2 years ago, 5 stars): "Absolutely awesome! They've worked on our car twice and it was returned in a timely manner. No extra "fixes" or "fees". They diagnosis and estimate did not change. Good mechanic."
+- Tayy (5 years ago, 5 stars): "If your reading the reviews wondering if you should come here COME! Mr. Kenny go above and beyond with his services which are quick, fast and reliable. There is never any discrepancies. I've had my car towed to his shop multiple times due to poor work done by other mechanics and he have my 03 back on the road in no time. Thank you for your services !"
+- Rivers Baldridge Jr (9 years ago, 5 stars): "Honesty and integrity, that's how you rate people who become your friends. This place is set back off the street and is unlike any auto repair shop i've seen. The waiting room is clean and comfortable and his prices are reasonable!"
+- Cat (2 years ago, 5 stars): "So grateful to find Quiet Storm! Good service from kind people at a fair price in a timely manner. Highly recommend."
+- Elliott Cromer (3 years ago, 5 stars): "The receptionist and mechanics I spoke to were really friendly and informative but never pushy about getting work done. They were punctual and honest throughout the whole process. Thank you!"
+
+## Notes
+- This is a design preview built by RGWebD. To book, call (706) 814-5930.
